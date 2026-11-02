@@ -1,29 +1,86 @@
-<picture>
+<a href="https://www.linkedin.com/in/hoyosmarcos/"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp">
-  <img alt="Marcos Hoyos, solutions architect. Integration, automation and data. Animated lines of light in layers converge on a glowing core." src="assets/header-light.webp" width="100%">
+  <img alt="Marcos Hoyos, solutions architect. Integration, automation and data. Animated lines of light in layers converge on a glowing core. Opens LinkedIn." src="assets/header-light.webp" width="100%">
+</picture></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
+  <img alt="Solution design: business needs become concrete designs: platforms, data flows and rules. System integration: platforms exchange data through APIs and events, so nobody types the same data twice. Process automation: repetitive manual work becomes flows that run on their own." src="assets/focus-light.svg" width="100%">
 </picture>
 
-I design solutions that connect systems, data and processes. I start from the business problem, choose the architecture and build it with APIs, events and automations that another team can run.
+<p align="center">Integration and automation for companies that run on many platforms.</p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>Architecture</b><br>I turn a business need into a concrete design: platforms, flows and rules.</td>
-    <td width="33%" valign="top"><b>Integration</b><br>I connect platforms through APIs and events, so each piece of data is entered once.</td>
-    <td width="33%" valign="top"><b>Automation</b><br>I replace manual tasks with flows that run on their own.</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hoyosmarcos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-## Featured projects
+## Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top"><a href="https://hysmarcos.github.io/marketing-lab-mcp/"><img alt="marketing-lab-mcp demo: a recorded Claude conversation where a tool call is re-run live in the browser" src="assets/mcp-demo.png" width="100%"></a><br><b><a href="https://github.com/hysmarcos/marketing-lab-mcp">marketing-lab-mcp</a></b><br>MCP server with 9 marketing tools. Claude calls them to run the numbers instead of guessing.</td>
-    <td width="50%" valign="top"><a href="https://hysmarcos.github.io/marketing-mix-model/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mmm-dark.svg"><img alt="marketing-mix-model: +35% media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-light.svg" width="100%"></picture></a><br><b><a href="https://github.com/hysmarcos/marketing-mix-model">marketing-mix-model</a></b><br>Bayesian model that splits ad budget across channels: +35% media sales at the same spend.</td>
-  </tr>
-</table>
+<a href="https://hysmarcos.github.io/marketing-lab-mcp/"><img align="right" width="48%" alt="marketing-lab-mcp demo: a recorded Claude conversation where a tool call runs again live in the browser" src="assets/mcp-demo.png"></a>
 
-Also: [superprecios-claros](https://github.com/hysmarcos/superprecios-claros) · [cuerpo-ar-modelos](https://github.com/hysmarcos/cuerpo-ar-modelos).
+### marketing-lab-mcp
+
+Nine marketing tools that Claude calls to calculate results instead of guessing them: A/B tests, budget splits, attribution and customer segments.
+
+<img alt="MCP" src="https://img.shields.io/badge/MCP-2D333B?style=flat-square&logo=modelcontextprotocol&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white">
+
+[Live demo](https://hysmarcos.github.io/marketing-lab-mcp/) · [Source](https://github.com/hysmarcos/marketing-lab-mcp)
+
+<br clear="right">
+<br>
+
+<a href="https://hysmarcos.github.io/marketing-mix-model/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mmm-dark.svg"><img align="right" width="48%" alt="marketing-mix-model: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-light.svg"></picture></a>
+
+### marketing-mix-model
+
+Bayesian model that splits an ad budget across five channels. Same spend, 35% more media-driven sales.
+
+Checked with five independent tests, including a comparison with Google Meridian.
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="PyMC-Marketing" src="https://img.shields.io/badge/PyMC--Marketing-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Meridian" src="https://img.shields.io/badge/Meridian-4285F4?style=flat-square&logo=google&logoColor=white">
+
+[Budget simulator](https://hysmarcos.github.io/marketing-mix-model/) · [Source](https://github.com/hysmarcos/marketing-mix-model)
+
+<br clear="right">
+
+## Latest activity
+
+<!-- activity:start -->
+| Date | Repository | Latest commit |
+|---|---|---|
+| 2026-10-31 | [marketing-lab-mcp](https://github.com/hysmarcos/marketing-lab-mcp) | [docs: README con demo, captura y licencias de datos](https://github.com/hysmarcos/marketing-lab-mcp/commit/2fcc1b3d6a8738862e135ae8775c465ad7c1b380) |
+| 2026-10-31 | [marketing-mix-model](https://github.com/hysmarcos/marketing-mix-model) | [feat: pulir la página: inicio en dos columnas, evidencia en pestañas,…](https://github.com/hysmarcos/marketing-mix-model/commit/18a99007371b945ea272da2263a8d57b1fa38ce2) |
+<!-- activity:end -->
+
+<sub>Updated every day by a GitHub Action.</sub>
+
+## Stack
+
+<p align="center"><sub>LANGUAGES</sub><br>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+<p align="center"><sub>RUNTIME AND WEB</sub><br>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-2D333B?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</p>
+
+<p align="center"><sub>DATA AND AI</sub><br>
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-2D333B?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
+</p>
+
+<p align="center"><sub>PLATFORM</sub><br>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
 
 ## Contact
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/hoyosmarcos/).
+Open to integration and automation projects. Send a message on [LinkedIn](https://www.linkedin.com/in/hoyosmarcos/).
