@@ -41,12 +41,12 @@ Nine marketing tools that Claude calls to calculate results instead of guessing 
 <br clear="right">
 <br>
 
-<img alt="marketing-mix-model: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-dark.svg#gh-dark-mode-only" align="right" width="48%">
-<img alt="marketing-mix-model: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-light.svg#gh-light-mode-only" align="right" width="48%">
+<img alt="marketing-mix-model on Robyn's public demo data: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-dark.svg#gh-dark-mode-only" align="right" width="48%">
+<img alt="marketing-mix-model on Robyn's public demo data: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-light.svg#gh-light-mode-only" align="right" width="48%">
 
 ### marketing-mix-model
 
-Bayesian model that splits an ad budget across five channels. Same spend, 35% more media-driven sales.
+Bayesian model that splits an ad budget across five channels. On Robyn's public demo data, the same spend brings 35% more media-driven sales.
 
 Checked with five independent tests, including a comparison with Google Meridian.
 
@@ -76,14 +76,11 @@ Checked with five independent tests, including a comparison with Google Meridian
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-<p align="center"><sub>RUNTIME AND WEB</sub><br>
+<p align="center"><sub>RUNTIME</sub><br>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-2D333B?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </p>
 
 <p align="center"><sub>DATA AND AI</sub><br>
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="MCP" src="https://img.shields.io/badge/MCP-2D333B?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
