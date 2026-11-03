@@ -1,12 +1,7 @@
-<a href="https://www.linkedin.com/in/hoyosmarcos/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp">
-  <img alt="Marcos Hoyos, solutions architect. Integration, automation and data. Animated lines of light in layers converge on a glowing core. Opens LinkedIn." src="assets/header-light.webp" width="100%">
-</picture></a>
+<a href="https://www.linkedin.com/in/hoyosmarcos/"><img alt="Marcos Hoyos, solutions architect. Integration, automation and data. Animated lines of light in layers converge on a glowing core. Opens LinkedIn." src="assets/header-dark.webp#gh-dark-mode-only" width="100%"></a><a href="https://www.linkedin.com/in/hoyosmarcos/"><img alt="Marcos Hoyos, solutions architect. Integration, automation and data. Animated lines of light in layers converge on a glowing core. Opens LinkedIn." src="assets/header-light.webp#gh-light-mode-only" width="100%"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
-  <img alt="Solution design: business needs become concrete designs: platforms, data flows and rules. System integration: platforms exchange data through APIs and events, so nobody types the same data twice. Process automation: repetitive manual work becomes flows that run on their own." src="assets/focus-light.svg" width="100%">
-</picture>
+<img alt="Solution design: business needs become concrete designs: platforms, data flows and rules. System integration: platforms exchange data through APIs and events, so nobody types the same data twice. Process automation: repetitive manual work becomes flows that run on their own." src="assets/focus-dark.svg#gh-dark-mode-only" width="100%">
+<img alt="Solution design: business needs become concrete designs: platforms, data flows and rules. System integration: platforms exchange data through APIs and events, so nobody types the same data twice. Process automation: repetitive manual work becomes flows that run on their own." src="assets/focus-light.svg#gh-light-mode-only" width="100%">
 
 <p align="center">Integration and automation for companies that run on many platforms.</p>
 
@@ -15,6 +10,21 @@
 </p>
 
 ## Featured work
+
+<a href="https://hysmarcos.github.io/agents-on-trial/"><img alt="Agents on Trial site: the question of when an AI agent makes sense in a company, over a chart of evidence for and against" src="assets/agents-dark.png#gh-dark-mode-only" align="right" width="48%"></a><a href="https://hysmarcos.github.io/agents-on-trial/"><img alt="Agents on Trial site: the question of when an AI agent makes sense in a company, over a chart of evidence for and against" src="assets/agents-light.png#gh-light-mode-only" align="right" width="48%"></a>
+
+### agents-on-trial
+
+Puts the claims about AI agents in companies to the test. Each claim gets evidence for and against, a verdict and a design criterion.
+
+Thirteen chapters in Spanish and English, a versioned evidence base and a weekly check that keeps the sources current.
+
+<img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+
+[Read the site](https://hysmarcos.github.io/agents-on-trial/) · [Source](https://github.com/hysmarcos/agents-on-trial)
+
+<br clear="right">
+<br>
 
 <a href="https://hysmarcos.github.io/marketing-lab-mcp/"><img align="right" width="48%" alt="marketing-lab-mcp demo: a recorded Claude conversation where a tool call runs again live in the browser" src="assets/mcp-demo.png"></a>
 
@@ -29,7 +39,7 @@ Nine marketing tools that Claude calls to calculate results instead of guessing 
 <br clear="right">
 <br>
 
-<a href="https://hysmarcos.github.io/marketing-mix-model/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mmm-dark.svg"><img align="right" width="48%" alt="marketing-mix-model: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-light.svg"></picture></a>
+<a href="https://hysmarcos.github.io/marketing-mix-model/"><img alt="marketing-mix-model: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-dark.svg#gh-dark-mode-only" align="right" width="48%"></a><a href="https://hysmarcos.github.io/marketing-mix-model/"><img alt="marketing-mix-model: 35% more media sales at the same budget, 2.9% error on held-out weeks" src="assets/mmm-light.svg#gh-light-mode-only" align="right" width="48%"></a>
 
 ### marketing-mix-model
 
@@ -48,6 +58,7 @@ Checked with five independent tests, including a comparison with Google Meridian
 <!-- activity:start -->
 | Date | Repository | Latest commit |
 |---|---|---|
+| 2026-11-03 | [agents-on-trial](https://github.com/hysmarcos/agents-on-trial) | [docs(h): DESIGN.md y design.json con la portada y la marca; capturas del README](https://github.com/hysmarcos/agents-on-trial/commit/79b40ff5388747809614fe7553584345d6394517) |
 | 2026-10-31 | [marketing-lab-mcp](https://github.com/hysmarcos/marketing-lab-mcp) | [docs: README con demo, captura y licencias de datos](https://github.com/hysmarcos/marketing-lab-mcp/commit/2fcc1b3d6a8738862e135ae8775c465ad7c1b380) |
 | 2026-10-31 | [marketing-mix-model](https://github.com/hysmarcos/marketing-mix-model) | [feat: pulir la página: inicio en dos columnas, evidencia en pestañas,…](https://github.com/hysmarcos/marketing-mix-model/commit/18a99007371b945ea272da2263a8d57b1fa38ce2) |
 <!-- activity:end -->
