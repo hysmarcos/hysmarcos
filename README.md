@@ -61,7 +61,7 @@ Checked with five independent tests, including a comparison with Google Meridian
 <!-- activity:start -->
 | Date | Repository | Latest commit |
 |---|---|---|
-| 2026-11-09 | [gondola](https://github.com/hysmarcos/gondola) | [feat: Chrome Web Store prep: npm run package (ZIP with manifest check), store…](https://github.com/hysmarcos/gondola/commit/6447cf188d40ec931c844d5cd0c27c6f919ad5f4) |
+| 2026-11-11 | [gondola](https://github.com/hysmarcos/gondola) | [feat: resumen del carrito unificado: detalle cerrado, globo de descuentos y…](https://github.com/hysmarcos/gondola/commit/c246174513c840b8420946b86bb5fed7a542336d) |
 | 2026-11-03 | [agents-on-trial](https://github.com/hysmarcos/agents-on-trial) | [docs(h): DESIGN.md y design.json con la portada y la marca; capturas del README](https://github.com/hysmarcos/agents-on-trial/commit/79b40ff5388747809614fe7553584345d6394517) |
 | 2026-10-31 | [marketing-lab-mcp](https://github.com/hysmarcos/marketing-lab-mcp) | [docs: README con demo, captura y licencias de datos](https://github.com/hysmarcos/marketing-lab-mcp/commit/2fcc1b3d6a8738862e135ae8775c465ad7c1b380) |
 | 2026-10-31 | [marketing-mix-model](https://github.com/hysmarcos/marketing-mix-model) | [feat: pulir la página: inicio en dos columnas, evidencia en pestañas,…](https://github.com/hysmarcos/marketing-mix-model/commit/18a99007371b945ea272da2263a8d57b1fa38ce2) |
