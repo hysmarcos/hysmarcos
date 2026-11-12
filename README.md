@@ -61,7 +61,7 @@ Checked with five independent tests, including a comparison with Google Meridian
 <!-- activity:start -->
 | Date | Repository | Latest commit |
 |---|---|---|
-| 2026-11-11 | [gondola](https://github.com/hysmarcos/gondola) | [feat: resumen del carrito unificado: detalle cerrado, globo de descuentos y…](https://github.com/hysmarcos/gondola/commit/c246174513c840b8420946b86bb5fed7a542336d) |
+| 2026-11-11 | [gondola](https://github.com/hysmarcos/gondola) | [chore: versión 0.14.1 (#10)](https://github.com/hysmarcos/gondola/commit/ccccc87394602cc4859051c89f52176bb7ca249a) |
 | 2026-11-03 | [agents-on-trial](https://github.com/hysmarcos/agents-on-trial) | [docs(h): DESIGN.md y design.json con la portada y la marca; capturas del README](https://github.com/hysmarcos/agents-on-trial/commit/79b40ff5388747809614fe7553584345d6394517) |
 | 2026-10-31 | [marketing-lab-mcp](https://github.com/hysmarcos/marketing-lab-mcp) | [docs: README con demo, captura y licencias de datos](https://github.com/hysmarcos/marketing-lab-mcp/commit/2fcc1b3d6a8738862e135ae8775c465ad7c1b380) |
 | 2026-10-31 | [marketing-mix-model](https://github.com/hysmarcos/marketing-mix-model) | [feat: pulir la página: inicio en dos columnas, evidencia en pestañas,…](https://github.com/hysmarcos/marketing-mix-model/commit/18a99007371b945ea272da2263a8d57b1fa38ce2) |
